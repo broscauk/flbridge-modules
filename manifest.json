@@ -1,0 +1,1409 @@
+{
+  "version": 1,
+  "source": "FL Studio 2025",
+  "generated": "2026-09-13",
+  "base": "https://github.com/broscauk/flbridge-modules/releases/download/modules-1/",
+  "manifest": "https://raw.githubusercontent.com/broscauk/flbridge-modules/main/manifest.json",
+  "plugins": [
+    {
+      "id": "effect-control-surface",
+      "kind": "effect",
+      "name": "Control Surface",
+      "file": "effect-control-surface.zip",
+      "size": 2007095,
+      "unpacked": 5748484,
+      "files": 118,
+      "sha256": "e2e224d4692e6d6bb3e80a4d1448c9b02fbcbce25735b0118838901ae5359355"
+    },
+    {
+      "id": "effect-distructor",
+      "kind": "effect",
+      "name": "Distructor",
+      "file": "effect-distructor.zip",
+      "size": 3316661,
+      "unpacked": 8680214,
+      "files": 57,
+      "sha256": "555adb4f8fd0ee2dff0a17b9fc17c618177c8ba60415f8d1e97b3ea0d23f6657"
+    },
+    {
+      "id": "effect-edison",
+      "kind": "effect",
+      "name": "Edison",
+      "file": "effect-edison.zip",
+      "size": 2647869,
+      "unpacked": 6774700,
+      "files": 30,
+      "sha256": "77a18762da91b4fbf22eb8f2a9a74d4050693c9e4d80dea613458f6b77901c21"
+    },
+    {
+      "id": "effect-effector",
+      "kind": "effect",
+      "name": "Effector",
+      "file": "effect-effector.zip",
+      "size": 1517117,
+      "unpacked": 4285536,
+      "files": 2,
+      "sha256": "8445dfc54dd8aa3ed5a7d0727493344c2e07314f89efeaaa8e1f814ee811a842"
+    },
+    {
+      "id": "effect-emphasis",
+      "kind": "effect",
+      "name": "Emphasis",
+      "file": "effect-emphasis.zip",
+      "size": 1446212,
+      "unpacked": 4190512,
+      "files": 1,
+      "sha256": "e47d43ee4271703d959630af0a4c3d821431f449e09b264086df50d93f2fe044"
+    },
+    {
+      "id": "effect-emphasizer",
+      "kind": "effect",
+      "name": "Emphasizer",
+      "file": "effect-emphasizer.zip",
+      "size": 1306301,
+      "unpacked": 3824432,
+      "files": 1,
+      "sha256": "8800215bdb1cae42dbefa01c56e6d8c586e72364ba2573714a7bfc1f7bc136f4"
+    },
+    {
+      "id": "effect-equo",
+      "kind": "effect",
+      "name": "EQUO",
+      "file": "effect-equo.zip",
+      "size": 1322658,
+      "unpacked": 3866140,
+      "files": 2,
+      "sha256": "41e07ded851ddc9882288f2d822909dd51000e03ed3befd91feff7902c35b707"
+    },
+    {
+      "id": "effect-fl-studio-mobile-rack-fx",
+      "kind": "effect",
+      "name": "FL Studio Mobile Rack FX",
+      "file": "effect-fl-studio-mobile-rack-fx.zip",
+      "size": 2748689,
+      "unpacked": 7946032,
+      "files": 1,
+      "sha256": "7343e8cff7a2780eb3bca27e70e301e9d0b24df52e947eea53aab2cf361abc62"
+    },
+    {
+      "id": "effect-frequency-shifter",
+      "kind": "effect",
+      "name": "Frequency Shifter",
+      "file": "effect-frequency-shifter.zip",
+      "size": 1471425,
+      "unpacked": 4200032,
+      "files": 2,
+      "sha256": "51a88bb8eab1c56cee73e0cc7a2463c20837597782c0855178cf26337a12c532"
+    },
+    {
+      "id": "effect-frequency-splitter",
+      "kind": "effect",
+      "name": "Frequency Splitter",
+      "file": "effect-frequency-splitter.zip",
+      "size": 2672564,
+      "unpacked": 7796888,
+      "files": 3,
+      "sha256": "f7af641905f05dbaa89499d1ce14db2223d2fe535018a0cf59bf42637682596d"
+    },
+    {
+      "id": "effect-fruity-7-band-eq",
+      "kind": "effect",
+      "name": "Fruity 7 Band EQ",
+      "file": "effect-fruity-7-band-eq.zip",
+      "size": 1269531,
+      "unpacked": 3719472,
+      "files": 1,
+      "sha256": "7120eef8b7a426c6b79cf50c6e6977e9774dd4dd43be84435f7748c18e85595a"
+    },
+    {
+      "id": "effect-fruity-balance",
+      "kind": "effect",
+      "name": "Fruity Balance",
+      "file": "effect-fruity-balance.zip",
+      "size": 1287887,
+      "unpacked": 3768624,
+      "files": 1,
+      "sha256": "f29c3e8d852447c828e5d7066063dc9ffc040f82fd8a481665c8e9f6ac56f2fe"
+    },
+    {
+      "id": "effect-fruity-bass-boost",
+      "kind": "effect",
+      "name": "Fruity Bass Boost",
+      "file": "effect-fruity-bass-boost.zip",
+      "size": 1294392,
+      "unpacked": 3800368,
+      "files": 1,
+      "sha256": "dfaec309501f29237f48ba5abd3c36ca69904be8f42cb258a042ce75cb1ca440"
+    },
+    {
+      "id": "effect-fruity-big-clock",
+      "kind": "effect",
+      "name": "Fruity Big Clock",
+      "file": "effect-fruity-big-clock.zip",
+      "size": 1248416,
+      "unpacked": 3649024,
+      "files": 2,
+      "sha256": "963339c8b7501d9644fb953975ba58d1810dbe4de39aea8916977ecfb4655910"
+    },
+    {
+      "id": "effect-fruity-blood-overdrive",
+      "kind": "effect",
+      "name": "Fruity Blood Overdrive",
+      "file": "effect-fruity-blood-overdrive.zip",
+      "size": 1288742,
+      "unpacked": 3777328,
+      "files": 1,
+      "sha256": "e2db359ef2b7d0a843a38a304da4c702412c817d7b52ff5970a690a291d3880b"
+    },
+    {
+      "id": "effect-fruity-center",
+      "kind": "effect",
+      "name": "Fruity Center",
+      "file": "effect-fruity-center.zip",
+      "size": 1242961,
+      "unpacked": 3640624,
+      "files": 1,
+      "sha256": "ba6b4dd2984f72ebf3a4e4d0b7b255a479e2685cc4fb2a8216fdf20249e812b4"
+    },
+    {
+      "id": "effect-fruity-chorus",
+      "kind": "effect",
+      "name": "Fruity Chorus",
+      "file": "effect-fruity-chorus.zip",
+      "size": 1288388,
+      "unpacked": 3794224,
+      "files": 1,
+      "sha256": "94ef7987412092417c3acf789ac8fe3472ac5d428947a6fb6c79ee940b4fc885"
+    },
+    {
+      "id": "effect-fruity-compressor",
+      "kind": "effect",
+      "name": "Fruity Compressor",
+      "file": "effect-fruity-compressor.zip",
+      "size": 1286229,
+      "unpacked": 3773232,
+      "files": 1,
+      "sha256": "20edb2164b0c4965964c3598c99d5b118e49678e97054495d5c372c3b8e5768a"
+    },
+    {
+      "id": "effect-fruity-convolver",
+      "kind": "effect",
+      "name": "Fruity Convolver",
+      "file": "effect-fruity-convolver.zip",
+      "size": 2174440,
+      "unpacked": 6201510,
+      "files": 29,
+      "sha256": "32b5c43b7486dbeec945ecf2c97d7c544bbddc8081f2a5d09ab14cf687d6713b"
+    },
+    {
+      "id": "effect-fruity-db-meter",
+      "kind": "effect",
+      "name": "Fruity dB Meter",
+      "file": "effect-fruity-db-meter.zip",
+      "size": 1269846,
+      "unpacked": 3712521,
+      "files": 2,
+      "sha256": "f490cab9296e299849c09b7c9871029eda6d3185c93ae1fa105166198d1809fa"
+    },
+    {
+      "id": "effect-fruity-delay",
+      "kind": "effect",
+      "name": "Fruity Delay",
+      "file": "effect-fruity-delay.zip",
+      "size": 1299181,
+      "unpacked": 3821872,
+      "files": 1,
+      "sha256": "75afb7c94e6d2a75eb048cbe0b0942ae0eb5d5e02703ee11107625d76bcb71c6"
+    },
+    {
+      "id": "effect-fruity-delay-2",
+      "kind": "effect",
+      "name": "Fruity Delay 2",
+      "file": "effect-fruity-delay-2.zip",
+      "size": 1290853,
+      "unpacked": 3782141,
+      "files": 2,
+      "sha256": "2d58a484eff70fc9c9bf94d5b0c98f2ed6027a409aed9748a6979acb67d01b45"
+    },
+    {
+      "id": "effect-fruity-delay-3",
+      "kind": "effect",
+      "name": "Fruity Delay 3",
+      "file": "effect-fruity-delay-3.zip",
+      "size": 1954292,
+      "unpacked": 5190752,
+      "files": 2,
+      "sha256": "5007974fa007a082eddd1bbf226f25e675fc85cf1ee8c86ca5b9ee0ccdd3c29a"
+    },
+    {
+      "id": "effect-fruity-delay-bank",
+      "kind": "effect",
+      "name": "Fruity Delay Bank",
+      "file": "effect-fruity-delay-bank.zip",
+      "size": 1347409,
+      "unpacked": 3963950,
+      "files": 2,
+      "sha256": "0384c1e03bff3bd0a4f57d8f2f2c52d1c66963b8895d54bcd54db703104c54e0"
+    },
+    {
+      "id": "effect-fruity-fast-dist",
+      "kind": "effect",
+      "name": "Fruity Fast Dist",
+      "file": "effect-fruity-fast-dist.zip",
+      "size": 1281053,
+      "unpacked": 3754511,
+      "files": 2,
+      "sha256": "f83414c11a9a881f7d0c9b3fd1b087eb5b3204e74c26826d744b3c53b4e6f7f3"
+    },
+    {
+      "id": "effect-fruity-fast-lp",
+      "kind": "effect",
+      "name": "Fruity Fast LP",
+      "file": "effect-fruity-fast-lp.zip",
+      "size": 1294187,
+      "unpacked": 3800880,
+      "files": 1,
+      "sha256": "2189e47907bc9833500bce0d979bedd09de3e4afaac80b9b675d41ff2a07d218"
+    },
+    {
+      "id": "effect-fruity-filter",
+      "kind": "effect",
+      "name": "Fruity Filter",
+      "file": "effect-fruity-filter.zip",
+      "size": 1301318,
+      "unpacked": 3828016,
+      "files": 1,
+      "sha256": "7a65682b94fb105ccc0d75974129be79f5c9a156896e2053d44a107c1740d13a"
+    },
+    {
+      "id": "effect-fruity-flanger",
+      "kind": "effect",
+      "name": "Fruity Flanger",
+      "file": "effect-fruity-flanger.zip",
+      "size": 1280498,
+      "unpacked": 3767088,
+      "files": 1,
+      "sha256": "d38dafa9631495f2f782f15c8ffa8f1731d31f209478ed1724cfd00c17e506db"
+    },
+    {
+      "id": "effect-fruity-flangus",
+      "kind": "effect",
+      "name": "Fruity Flangus",
+      "file": "effect-fruity-flangus.zip",
+      "size": 1277516,
+      "unpacked": 3736562,
+      "files": 2,
+      "sha256": "b7e64984c04ca58024d3a622d9c0235b0b6ba027c3c26703852f13bbda216a67"
+    },
+    {
+      "id": "effect-fruity-formula-controller",
+      "kind": "effect",
+      "name": "Fruity Formula Controller",
+      "file": "effect-fruity-formula-controller.zip",
+      "size": 1344975,
+      "unpacked": 3922077,
+      "files": 3,
+      "sha256": "9c6fb089cc8765e9a9b6d3618a091691f025c96926d5dbdec5d30ff438215a20"
+    },
+    {
+      "id": "effect-fruity-free-filter",
+      "kind": "effect",
+      "name": "Fruity Free Filter",
+      "file": "effect-fruity-free-filter.zip",
+      "size": 1302860,
+      "unpacked": 3825456,
+      "files": 1,
+      "sha256": "15501bfa82f9bf1da2989b1acff305d796c7c3925577c494ab36542cbbc787ad"
+    },
+    {
+      "id": "effect-fruity-html-notebook",
+      "kind": "effect",
+      "name": "Fruity HTML NoteBook",
+      "file": "effect-fruity-html-notebook.zip",
+      "size": 1364756,
+      "unpacked": 3988348,
+      "files": 4,
+      "sha256": "b76fcafb4dae9f98a831422aa317350b0b33146b4bdca39d22923fc58cbbbb48"
+    },
+    {
+      "id": "effect-fruity-limiter",
+      "kind": "effect",
+      "name": "Fruity Limiter",
+      "file": "effect-fruity-limiter.zip",
+      "size": 1416199,
+      "unpacked": 3998478,
+      "files": 3,
+      "sha256": "4ce74435b7182d9ab1c2587197c0a39eb0537a36eaf5cdca8ff91ded051d32b2"
+    },
+    {
+      "id": "effect-fruity-love-philter",
+      "kind": "effect",
+      "name": "Fruity Love Philter",
+      "file": "effect-fruity-love-philter.zip",
+      "size": 2184699,
+      "unpacked": 6381095,
+      "files": 28,
+      "sha256": "847d1de272e47968d16d1fa4ee2c8c9ff1bf0f0d03fcc40189d520a871ce6f23"
+    },
+    {
+      "id": "effect-fruity-lsd",
+      "kind": "effect",
+      "name": "Fruity LSD",
+      "file": "effect-fruity-lsd.zip",
+      "size": 1580313,
+      "unpacked": 4552733,
+      "files": 2,
+      "sha256": "00cf37f88c0ccecf6a8d71313207d447c7c2f4d51ea64433afa71c14480fefb1"
+    },
+    {
+      "id": "effect-fruity-multiband-compressor",
+      "kind": "effect",
+      "name": "Fruity Multiband Compressor",
+      "file": "effect-fruity-multiband-compressor.zip",
+      "size": 1544962,
+      "unpacked": 4448864,
+      "files": 2,
+      "sha256": "76c32fb3d34b66e7da249b5d54cbac1bf39c8197c5c49aa512632fddfcc350f1"
+    },
+    {
+      "id": "effect-fruity-mute-2",
+      "kind": "effect",
+      "name": "Fruity Mute 2",
+      "file": "effect-fruity-mute-2.zip",
+      "size": 1276600,
+      "unpacked": 3742512,
+      "files": 1,
+      "sha256": "5c8d1666d0602ae7c30167830e92c80f6b1f5b8e6188dad5c9be227cd8d802f3"
+    },
+    {
+      "id": "effect-fruity-notebook",
+      "kind": "effect",
+      "name": "Fruity NoteBook",
+      "file": "effect-fruity-notebook.zip",
+      "size": 1254581,
+      "unpacked": 3665384,
+      "files": 3,
+      "sha256": "ecc783695682cd6d8bff162f911e38f40830fa402cbaf4674e77abd53fdabfd5"
+    },
+    {
+      "id": "effect-fruity-notebook-2",
+      "kind": "effect",
+      "name": "Fruity NoteBook 2",
+      "file": "effect-fruity-notebook-2.zip",
+      "size": 1257705,
+      "unpacked": 3664249,
+      "files": 3,
+      "sha256": "b787d380b6a58977a9f175bd2d8b7f3f505283abdc855d443ca43417349879e0"
+    },
+    {
+      "id": "effect-fruity-panomatic",
+      "kind": "effect",
+      "name": "Fruity PanOMatic",
+      "file": "effect-fruity-panomatic.zip",
+      "size": 1302885,
+      "unpacked": 3808265,
+      "files": 2,
+      "sha256": "cb4aa6344d343453df1aa53ba7a596170c8a6bc5fe02a8567652892af8d533d7"
+    },
+    {
+      "id": "effect-fruity-parametric-eq",
+      "kind": "effect",
+      "name": "Fruity Parametric EQ",
+      "file": "effect-fruity-parametric-eq.zip",
+      "size": 1311781,
+      "unpacked": 3865085,
+      "files": 2,
+      "sha256": "2d8208615bfabe76bd98caffc0eb3944459f425bdb699d8bd9e5496442dc547f"
+    },
+    {
+      "id": "effect-fruity-parametric-eq-2",
+      "kind": "effect",
+      "name": "Fruity Parametric EQ 2",
+      "file": "effect-fruity-parametric-eq-2.zip",
+      "size": 1473463,
+      "unpacked": 4161522,
+      "files": 4,
+      "sha256": "b19e0675807005ca2534b406810971dda1ee67c436feca5f7dba4389d9e3c347"
+    },
+    {
+      "id": "effect-fruity-peak-controller",
+      "kind": "effect",
+      "name": "Fruity Peak Controller",
+      "file": "effect-fruity-peak-controller.zip",
+      "size": 1448192,
+      "unpacked": 4175289,
+      "files": 4,
+      "sha256": "358d982612a5e0cb52600847e70dd75ef0bc62d8fb42de9f07979e30c886a602"
+    },
+    {
+      "id": "effect-fruity-phase-inverter",
+      "kind": "effect",
+      "name": "Fruity Phase Inverter",
+      "file": "effect-fruity-phase-inverter.zip",
+      "size": 1276188,
+      "unpacked": 3739952,
+      "files": 1,
+      "sha256": "d3712dda6749e23d0bcb4548fc2c81f2e967a34fdfdd1848dd8a0dd38d72e6cb"
+    },
+    {
+      "id": "effect-fruity-phaser",
+      "kind": "effect",
+      "name": "Fruity Phaser",
+      "file": "effect-fruity-phaser.zip",
+      "size": 1279333,
+      "unpacked": 3759408,
+      "files": 1,
+      "sha256": "9e61f66e711888c200078896ee823b0a2c5a7f747d0a46cf0934d4400ffdbfb2"
+    },
+    {
+      "id": "effect-fruity-reeverb",
+      "kind": "effect",
+      "name": "Fruity Reeverb",
+      "file": "effect-fruity-reeverb.zip",
+      "size": 1281044,
+      "unpacked": 3764016,
+      "files": 1,
+      "sha256": "652dc237c28122c28b4fcf99c396cace67a9f1107e57e4a816ea2e58d55f143a"
+    },
+    {
+      "id": "effect-fruity-reeverb-2",
+      "kind": "effect",
+      "name": "Fruity Reeverb 2",
+      "file": "effect-fruity-reeverb-2.zip",
+      "size": 1322254,
+      "unpacked": 3880436,
+      "files": 2,
+      "sha256": "f44012c168794e1bd66f58c337ab5933b4daa0a10433cf6b7f549f195b076d15"
+    },
+    {
+      "id": "effect-fruity-scratcher",
+      "kind": "effect",
+      "name": "Fruity Scratcher",
+      "file": "effect-fruity-scratcher.zip",
+      "size": 1611012,
+      "unpacked": 4805938,
+      "files": 5,
+      "sha256": "5f815129b04ad405751dba81faa6642fe48a2b11783e9d5bf95b7eaef80f0ea8"
+    },
+    {
+      "id": "effect-fruity-send",
+      "kind": "effect",
+      "name": "Fruity Send",
+      "file": "effect-fruity-send.zip",
+      "size": 1283320,
+      "unpacked": 3758632,
+      "files": 2,
+      "sha256": "f03ef0a6fe72656b932eda029ab1ed0b84dad065976bbf437bba41a35c044d4a"
+    },
+    {
+      "id": "effect-fruity-soft-clipper",
+      "kind": "effect",
+      "name": "Fruity Soft Clipper",
+      "file": "effect-fruity-soft-clipper.zip",
+      "size": 1288078,
+      "unpacked": 3771135,
+      "files": 2,
+      "sha256": "c1aeeb0dc1121a5960699da97f77c12d887967bbaae520bc356321ff3360bb17"
+    },
+    {
+      "id": "effect-fruity-spectroman",
+      "kind": "effect",
+      "name": "Fruity Spectroman",
+      "file": "effect-fruity-spectroman.zip",
+      "size": 1300886,
+      "unpacked": 3806745,
+      "files": 2,
+      "sha256": "004a89fc7cea477cc8cdf8ac46570efab04bdfd4cd649f44d893f94d8064fa37"
+    },
+    {
+      "id": "effect-fruity-squeeze",
+      "kind": "effect",
+      "name": "Fruity Squeeze",
+      "file": "effect-fruity-squeeze.zip",
+      "size": 1317988,
+      "unpacked": 3874330,
+      "files": 2,
+      "sha256": "69f0b279ece1ab70e48186dbe50904028d07ea949dd838469f7aade9115bd064"
+    },
+    {
+      "id": "effect-fruity-stereo-enhancer",
+      "kind": "effect",
+      "name": "Fruity Stereo Enhancer",
+      "file": "effect-fruity-stereo-enhancer.zip",
+      "size": 1289523,
+      "unpacked": 3779080,
+      "files": 2,
+      "sha256": "ea25ee51c7b7b4716e12e96d75825edefbba9b1a3df29e170262978831f736d6"
+    },
+    {
+      "id": "effect-fruity-stereo-shaper",
+      "kind": "effect",
+      "name": "Fruity Stereo Shaper",
+      "file": "effect-fruity-stereo-shaper.zip",
+      "size": 1312996,
+      "unpacked": 3848712,
+      "files": 2,
+      "sha256": "7585c914f71d0ad9c37b6feba6ea3c682ce7c3d29b444d9df0ab6c493b22a5bd"
+    },
+    {
+      "id": "effect-fruity-vocoder",
+      "kind": "effect",
+      "name": "Fruity Vocoder",
+      "file": "effect-fruity-vocoder.zip",
+      "size": 1316417,
+      "unpacked": 3862514,
+      "files": 2,
+      "sha256": "b392f76fccbcbe8cf5f98cadfbb0b7d05629f335c4355eb8f90d9f2c2d81e981"
+    },
+    {
+      "id": "effect-fruity-waveshaper",
+      "kind": "effect",
+      "name": "Fruity WaveShaper",
+      "file": "effect-fruity-waveshaper.zip",
+      "size": 1982662,
+      "unpacked": 5740493,
+      "files": 7,
+      "sha256": "1400605113485693923a466f21adf6f6c788eb98b197c901603245e2a68851a4"
+    },
+    {
+      "id": "effect-fruity-wrapper",
+      "kind": "effect",
+      "name": "Fruity Wrapper",
+      "file": "effect-fruity-wrapper.zip",
+      "size": 2012485,
+      "unpacked": 5998068,
+      "files": 2,
+      "sha256": "e5c8a17b0fb8b1b37d83c41813c4d218e177878b79aca6f8a8e46ac3622c35d9"
+    },
+    {
+      "id": "effect-fruity-x-y-controller",
+      "kind": "effect",
+      "name": "Fruity X-Y Controller",
+      "file": "effect-fruity-x-y-controller.zip",
+      "size": 1303109,
+      "unpacked": 3823161,
+      "files": 2,
+      "sha256": "3e32513c63c61e2e41cf8f954ece4ee062084a298b8419919fa8be5c4a4f2c78"
+    },
+    {
+      "id": "effect-fruity-x-y-z-controller",
+      "kind": "effect",
+      "name": "Fruity X-Y-Z Controller",
+      "file": "effect-fruity-x-y-z-controller.zip",
+      "size": 1997969,
+      "unpacked": 5794608,
+      "files": 1,
+      "sha256": "bcb52b476edb249c40648026aa8fceb9e74e92fbec3219e9ef1bbecdb0bdf91e"
+    },
+    {
+      "id": "effect-gross-beat",
+      "kind": "effect",
+      "name": "Gross Beat",
+      "file": "effect-gross-beat.zip",
+      "size": 2156246,
+      "unpacked": 5982824,
+      "files": 8,
+      "sha256": "de22e7caf63e0b7333f8aa855daba39f0b0335c28df11e0a7d097c6e3b769c63"
+    },
+    {
+      "id": "effect-hardcore",
+      "kind": "effect",
+      "name": "Hardcore",
+      "file": "effect-hardcore.zip",
+      "size": 1691274,
+      "unpacked": 5673865,
+      "files": 42,
+      "sha256": "ea66cfb34e68e57d308769f776c258577c0b5e69f14261bccbea4e6346f7ea14"
+    },
+    {
+      "id": "effect-hyper-chorus",
+      "kind": "effect",
+      "name": "Hyper Chorus",
+      "file": "effect-hyper-chorus.zip",
+      "size": 1482594,
+      "unpacked": 4245600,
+      "files": 2,
+      "sha256": "acfea96466adab29dce1316abeb99889e472147a6d714f083c15dd6630d1bc61"
+    },
+    {
+      "id": "effect-low-lifter",
+      "kind": "effect",
+      "name": "Low Lifter",
+      "file": "effect-low-lifter.zip",
+      "size": 1313173,
+      "unpacked": 3842864,
+      "files": 1,
+      "sha256": "b1f26f206b14a45e1d2729f54bc345de6601e14b2d578375f1f98968ee76731a"
+    },
+    {
+      "id": "effect-luxeverb",
+      "kind": "effect",
+      "name": "Luxeverb",
+      "file": "effect-luxeverb.zip",
+      "size": 1390883,
+      "unpacked": 4081968,
+      "files": 1,
+      "sha256": "02419100a5e05e493bdb3d3f9603de7450380f747c76abd4da2a74e9d486b143"
+    },
+    {
+      "id": "effect-maximus",
+      "kind": "effect",
+      "name": "Maximus",
+      "file": "effect-maximus.zip",
+      "size": 2179024,
+      "unpacked": 6044949,
+      "files": 22,
+      "sha256": "5e1f48db854217d0bc11877be4be864973c6515b97f65d15b0f5ca4d61fd0790"
+    },
+    {
+      "id": "effect-multiband-delay",
+      "kind": "effect",
+      "name": "Multiband Delay",
+      "file": "effect-multiband-delay.zip",
+      "size": 2440251,
+      "unpacked": 7082080,
+      "files": 2,
+      "sha256": "9a9cbb6374904eb188a61c8e53d118662208ca9516c0860fff27a9d0491ea17b"
+    },
+    {
+      "id": "effect-newtime",
+      "kind": "effect",
+      "name": "Newtime",
+      "file": "effect-newtime.zip",
+      "size": 1802254,
+      "unpacked": 5201208,
+      "files": 51,
+      "sha256": "26a891a456b4349557a2b5e08f1b2aeac2275ce522306dbb848873571d2dca1d"
+    },
+    {
+      "id": "effect-newtone",
+      "kind": "effect",
+      "name": "Newtone",
+      "file": "effect-newtone.zip",
+      "size": 3787124,
+      "unpacked": 10113958,
+      "files": 3,
+      "sha256": "bf4ffa547b9a6f3fe5c13c5ca30e5a77b664cc7c6470aa506930d70e86d5e48b"
+    },
+    {
+      "id": "effect-patcher",
+      "kind": "effect",
+      "name": "Patcher",
+      "file": "effect-patcher.zip",
+      "size": 2394076,
+      "unpacked": 7027225,
+      "files": 2,
+      "sha256": "38475f2cedcf6306eefc3fab7e0f03fa583502e4d476320291df75101dd36b0b"
+    },
+    {
+      "id": "effect-pitch-shifter",
+      "kind": "effect",
+      "name": "Pitch Shifter",
+      "file": "effect-pitch-shifter.zip",
+      "size": 1492919,
+      "unpacked": 4306224,
+      "files": 1,
+      "sha256": "756905337f72ee9e5f613abe218cc703570990ca2d2f38e645b4e2dfc90b931d"
+    },
+    {
+      "id": "effect-pitcher",
+      "kind": "effect",
+      "name": "Pitcher",
+      "file": "effect-pitcher.zip",
+      "size": 7123208,
+      "unpacked": 23220321,
+      "files": 22,
+      "sha256": "99fc51d6fc4113aa24d64fc8220a61887374a24aed7be615e3c8dccc551d099c"
+    },
+    {
+      "id": "effect-razer-chroma",
+      "kind": "effect",
+      "name": "Razer Chroma",
+      "file": "effect-razer-chroma.zip",
+      "size": 1418362,
+      "unpacked": 4094768,
+      "files": 1,
+      "sha256": "f9efd1b44a9752659ecad449dcde8d10102460f71eb6259f384c2baf5a7619cd"
+    },
+    {
+      "id": "effect-soundgoodizer",
+      "kind": "effect",
+      "name": "Soundgoodizer",
+      "file": "effect-soundgoodizer.zip",
+      "size": 2325811,
+      "unpacked": 6410244,
+      "files": 5,
+      "sha256": "3bc8dd5e850607614ec3d8bef32d670483ce4467841fac92310b955e7198b523"
+    },
+    {
+      "id": "effect-spreader",
+      "kind": "effect",
+      "name": "Spreader",
+      "file": "effect-spreader.zip",
+      "size": 1339144,
+      "unpacked": 3951320,
+      "files": 2,
+      "sha256": "445feff526bdb04a08578c671397d4a4979b70a19b13d14e45011cd072abb55b"
+    },
+    {
+      "id": "effect-transient-processor",
+      "kind": "effect",
+      "name": "Transient Processor",
+      "file": "effect-transient-processor.zip",
+      "size": 1483715,
+      "unpacked": 4218976,
+      "files": 2,
+      "sha256": "38f3239a2535104c3e1996464cb0482327abfcded53737dbb0e11e35f87e6c26"
+    },
+    {
+      "id": "effect-transporter",
+      "kind": "effect",
+      "name": "Transporter",
+      "file": "effect-transporter.zip",
+      "size": 1449506,
+      "unpacked": 4216112,
+      "files": 1,
+      "sha256": "dd0203e2365ffef6685a1e052842380a98a9cfc978a02ccb725891ba5e8dbb6f"
+    },
+    {
+      "id": "effect-tuner",
+      "kind": "effect",
+      "name": "Tuner",
+      "file": "effect-tuner.zip",
+      "size": 1436097,
+      "unpacked": 4066400,
+      "files": 2,
+      "sha256": "46002d9cfa03cc8224f386222458d9ac373835dd7dfaeb89c8653eefb6360898"
+    },
+    {
+      "id": "effect-vfx-color-mapper",
+      "kind": "effect",
+      "name": "VFX Color Mapper",
+      "file": "effect-vfx-color-mapper.zip",
+      "size": 1372906,
+      "unpacked": 3968304,
+      "files": 1,
+      "sha256": "c591f65be570c4a559d5a843ce3a4178a9b00424460144a91252a8f3804d0b1e"
+    },
+    {
+      "id": "effect-vfx-envelope",
+      "kind": "effect",
+      "name": "VFX Envelope",
+      "file": "effect-vfx-envelope.zip",
+      "size": 1983553,
+      "unpacked": 5755696,
+      "files": 1,
+      "sha256": "debd7a9e0aa4ac3673a4530271c806834538b5d5c8140d019e6468204c1d6601"
+    },
+    {
+      "id": "effect-vfx-key-mapper",
+      "kind": "effect",
+      "name": "VFX Key Mapper",
+      "file": "effect-vfx-key-mapper.zip",
+      "size": 1401974,
+      "unpacked": 4048688,
+      "files": 1,
+      "sha256": "358e9e08774c20080101a61c8130804ee2a8f8441fa89a43c337dba93b0f4849"
+    },
+    {
+      "id": "effect-vfx-keyboard-splitter",
+      "kind": "effect",
+      "name": "VFX Keyboard Splitter",
+      "file": "effect-vfx-keyboard-splitter.zip",
+      "size": 1976818,
+      "unpacked": 5724976,
+      "files": 1,
+      "sha256": "427875c5c76437897f9f7b2f25831fa7f387fc2b4eca7add355571679c8277f8"
+    },
+    {
+      "id": "effect-vfx-level-scaler",
+      "kind": "effect",
+      "name": "VFX Level Scaler",
+      "file": "effect-vfx-level-scaler.zip",
+      "size": 1434996,
+      "unpacked": 4152624,
+      "files": 1,
+      "sha256": "adc0a26bd6fba3904d29bc688641cbe2ba4f32a5801235a6b7096c9c967d2837"
+    },
+    {
+      "id": "effect-vfx-script",
+      "kind": "effect",
+      "name": "VFX Script",
+      "file": "effect-vfx-script.zip",
+      "size": 1572686,
+      "unpacked": 4539696,
+      "files": 1,
+      "sha256": "97c4b165243322cedb5c3b4763140f498fd24ad634caabd6612a6c3ea358b4e8"
+    },
+    {
+      "id": "effect-vfx-sequencer",
+      "kind": "effect",
+      "name": "VFX Sequencer",
+      "file": "effect-vfx-sequencer.zip",
+      "size": 1591464,
+      "unpacked": 4606464,
+      "files": 2,
+      "sha256": "c6e186f834af390c0b63cb8f248927df2094f20907aaf40bc865d78bc2893c42"
+    },
+    {
+      "id": "effect-vintage-chorus",
+      "kind": "effect",
+      "name": "Vintage Chorus",
+      "file": "effect-vintage-chorus.zip",
+      "size": 1473043,
+      "unpacked": 4204640,
+      "files": 2,
+      "sha256": "8cd5e2caadf85d2c284d92628e80cf518d9404c763e4229c54f667622cb99bab"
+    },
+    {
+      "id": "effect-vintage-phaser",
+      "kind": "effect",
+      "name": "Vintage Phaser",
+      "file": "effect-vintage-phaser.zip",
+      "size": 1513978,
+      "unpacked": 4344928,
+      "files": 2,
+      "sha256": "bc7a26781bbf82677ec5c59fa676469f223fcef35f7c88e04ba5445f6270542c"
+    },
+    {
+      "id": "effect-vocodex",
+      "kind": "effect",
+      "name": "Vocodex",
+      "file": "effect-vocodex.zip",
+      "size": 4763199,
+      "unpacked": 12798067,
+      "files": 58,
+      "sha256": "fbca5e9331b318502ff37a28f22209269964062f5320f4fac41acd79c2ae3fde"
+    },
+    {
+      "id": "effect-wave-candy",
+      "kind": "effect",
+      "name": "Wave Candy",
+      "file": "effect-wave-candy.zip",
+      "size": 1525963,
+      "unpacked": 4394525,
+      "files": 2,
+      "sha256": "d070cc147708f63d39f95a142d8007e99202ec5e164f283cb520cf4d46928833"
+    },
+    {
+      "id": "effect-zgameeditor-visualizer",
+      "kind": "effect",
+      "name": "ZGameEditor Visualizer",
+      "file": "effect-zgameeditor-visualizer.zip",
+      "size": 43032845,
+      "unpacked": 91258649,
+      "files": 1857,
+      "sha256": "3c87ed357dc18c2181a6a04874d3a1f926b9b84d6e28eee9564d536770aa940a"
+    },
+    {
+      "id": "generator-3x-osc",
+      "kind": "generator",
+      "name": "3x Osc",
+      "file": "generator-3x-osc.zip",
+      "size": 1599614,
+      "unpacked": 4584302,
+      "files": 3,
+      "sha256": "746c6bb1e63e78e31ef2a36e429dafa08f14e480a1a98d5a849f7aaabe0b3fa6"
+    },
+    {
+      "id": "generator-autogun",
+      "kind": "generator",
+      "name": "Autogun",
+      "file": "generator-autogun.zip",
+      "size": 2592655,
+      "unpacked": 7046082,
+      "files": 34,
+      "sha256": "455a9b19c73fe4e77eb293c1a1d4407c9e394219a91555806700603934eaaaf5"
+    },
+    {
+      "id": "generator-bassdrum",
+      "kind": "generator",
+      "name": "BassDrum",
+      "file": "generator-bassdrum.zip",
+      "size": 2194097,
+      "unpacked": 5369820,
+      "files": 11,
+      "sha256": "1814eb2744961ca6e2e8a67c1819633ebd0f10cbc0a70c0a0701b15e67ca23a6"
+    },
+    {
+      "id": "generator-beepmap",
+      "kind": "generator",
+      "name": "BeepMap",
+      "file": "generator-beepmap.zip",
+      "size": 1716323,
+      "unpacked": 4621867,
+      "files": 9,
+      "sha256": "ab99282aed994dc941c751e1a05f2b6f4b3f6932a2a9a4833e77e29c35f5fe21"
+    },
+    {
+      "id": "generator-boobass",
+      "kind": "generator",
+      "name": "BooBass",
+      "file": "generator-boobass.zip",
+      "size": 1825210,
+      "unpacked": 4598050,
+      "files": 3,
+      "sha256": "bd36cdf685bff54bf1db1f91f68ac1dadb2edc19c6a3449196e518c042cec2f1"
+    },
+    {
+      "id": "generator-dashboard",
+      "kind": "generator",
+      "name": "Dashboard",
+      "file": "generator-dashboard.zip",
+      "size": 1959337,
+      "unpacked": 5779174,
+      "files": 90,
+      "sha256": "13fa856903bbe2587f50fc29aaf3b1ad2f37ed025477f0ab961bd06571466e02"
+    },
+    {
+      "id": "generator-directwave",
+      "kind": "generator",
+      "name": "DirectWave",
+      "file": "generator-directwave.zip",
+      "size": 2642234,
+      "unpacked": 7335293,
+      "files": 27,
+      "sha256": "2bac775f9b6be031fba74f2ca1f45897677a47047d44d754cfa0237107c122a7"
+    },
+    {
+      "id": "generator-drumaxx",
+      "kind": "generator",
+      "name": "Drumaxx",
+      "file": "generator-drumaxx.zip",
+      "size": 2133812,
+      "unpacked": 5415295,
+      "files": 1182,
+      "sha256": "2e8eda8298b70c5c867ea3cade0a011c70eae996536af9e9320152d964eda969"
+    },
+    {
+      "id": "generator-drumpad",
+      "kind": "generator",
+      "name": "Drumpad",
+      "file": "generator-drumpad.zip",
+      "size": 1659699,
+      "unpacked": 4613216,
+      "files": 2,
+      "sha256": "992f23bf7f5b335461d605d20139401f60085932f82ff90d62c52683c4e06cbe"
+    },
+    {
+      "id": "generator-fl-keys",
+      "kind": "generator",
+      "name": "FL Keys",
+      "file": "generator-fl-keys.zip",
+      "size": 7708033,
+      "unpacked": 10708387,
+      "files": 47,
+      "sha256": "15f5458c127097e60de05252178a7826cc89684d7c2aa91d78aacbf879903453"
+    },
+    {
+      "id": "generator-fl-slayer",
+      "kind": "generator",
+      "name": "FL Slayer",
+      "file": "generator-fl-slayer.zip",
+      "size": 2165174,
+      "unpacked": 6230079,
+      "files": 12,
+      "sha256": "e5d57c41eab0f1b3526243e015383fbecc0cbb1544911dd288858ceb5ad65af8"
+    },
+    {
+      "id": "generator-fl-studio-mobile",
+      "kind": "generator",
+      "name": "FL Studio Mobile",
+      "file": "generator-fl-studio-mobile.zip",
+      "size": 27975569,
+      "unpacked": 40502935,
+      "files": 1404,
+      "sha256": "52237266cec452188fe969a9b5c48c30fa0c5d4b3b13590669073a00420cd9dc"
+    },
+    {
+      "id": "generator-fl-studio-mobile-rack",
+      "kind": "generator",
+      "name": "FL Studio Mobile Rack",
+      "file": "generator-fl-studio-mobile-rack.zip",
+      "size": 2741325,
+      "unpacked": 7939072,
+      "files": 1,
+      "sha256": "ecf2128d7d4d8a5cb9db6baac6a5dfe55fb16fec5dbfb7915dffb60757b43543"
+    },
+    {
+      "id": "generator-flex",
+      "kind": "generator",
+      "name": "FLEX",
+      "file": "generator-flex.zip",
+      "size": 4508820,
+      "unpacked": 11937090,
+      "files": 6,
+      "sha256": "2cc59d2a1df9316f551391a61fe1c49a10c2fa2147bdcf658e5511cc9a8a0c61"
+    },
+    {
+      "id": "generator-fpc",
+      "kind": "generator",
+      "name": "FPC",
+      "file": "generator-fpc.zip",
+      "size": 2100670,
+      "unpacked": 6069376,
+      "files": 22,
+      "sha256": "6ad67ed3812ba03871bc4379ec65ef3a5bb28d5cd414a07131da9366982db4a7"
+    },
+    {
+      "id": "generator-fruit-kick",
+      "kind": "generator",
+      "name": "Fruit Kick",
+      "file": "generator-fruit-kick.zip",
+      "size": 1480356,
+      "unpacked": 4274945,
+      "files": 2,
+      "sha256": "f0ddcd786cc51a0df3359d3191cb81f248eaeae31bdd86fef8ff9bdbbd183fef"
+    },
+    {
+      "id": "generator-fruity-dance",
+      "kind": "generator",
+      "name": "Fruity Dance",
+      "file": "generator-fruity-dance.zip",
+      "size": 3134863,
+      "unpacked": 5866448,
+      "files": 6,
+      "sha256": "5adca69fddc12e89a0df981a6967cd759f17ab3324295b909d2870a3bb7c9051"
+    },
+    {
+      "id": "generator-fruity-drumsynth-live",
+      "kind": "generator",
+      "name": "Fruity DrumSynth Live",
+      "file": "generator-fruity-drumsynth-live.zip",
+      "size": 2219802,
+      "unpacked": 5337006,
+      "files": 4,
+      "sha256": "3021bb2ddbb42dc6352dafad4d29433d0c552ff7e12f40416f1ea6d2866976ee"
+    },
+    {
+      "id": "generator-fruity-dx10",
+      "kind": "generator",
+      "name": "Fruity DX10",
+      "file": "generator-fruity-dx10.zip",
+      "size": 1497310,
+      "unpacked": 4336669,
+      "files": 2,
+      "sha256": "b610542dc8cfce4a53134e2e8982b4f0eaefc798f3179cfd3988e2b0623e272b"
+    },
+    {
+      "id": "generator-fruity-envelope-controller",
+      "kind": "generator",
+      "name": "Fruity Envelope Controller",
+      "file": "generator-fruity-envelope-controller.zip",
+      "size": 2077417,
+      "unpacked": 6248823,
+      "files": 26,
+      "sha256": "b45721b80b8456cb8abf93a01570c4e22535928a6c4752a6312a91174801c80d"
+    },
+    {
+      "id": "generator-fruity-granulizer",
+      "kind": "generator",
+      "name": "Fruity Granulizer",
+      "file": "generator-fruity-granulizer.zip",
+      "size": 1566145,
+      "unpacked": 4481115,
+      "files": 3,
+      "sha256": "a8934494a7174a16533c3607f9e9dd8867e20c855f1e1cd1eeddce78fecf84a9"
+    },
+    {
+      "id": "generator-fruity-keyboard-controller",
+      "kind": "generator",
+      "name": "Fruity Keyboard Controller",
+      "file": "generator-fruity-keyboard-controller.zip",
+      "size": 1408506,
+      "unpacked": 4064844,
+      "files": 2,
+      "sha256": "6995b513ef1ef5acad15ebb1f51f532dcad0c3754633a6b6cb5aa100668988fe"
+    },
+    {
+      "id": "generator-fruity-slicer",
+      "kind": "generator",
+      "name": "Fruity Slicer",
+      "file": "generator-fruity-slicer.zip",
+      "size": 1603684,
+      "unpacked": 4593410,
+      "files": 3,
+      "sha256": "36f8ed65b4a115396a1871c565dadde5766ad801c589981ffe2a0edb1a6c5273"
+    },
+    {
+      "id": "generator-fruity-slicer-2",
+      "kind": "generator",
+      "name": "Fruity Slicer 2",
+      "file": "generator-fruity-slicer-2.zip",
+      "size": 3018934,
+      "unpacked": 8692792,
+      "files": 40,
+      "sha256": "f540660b4b6eca2d6b6600f2ef2824496e90dc38e768237326dca349aa572604"
+    },
+    {
+      "id": "generator-fruity-video-player",
+      "kind": "generator",
+      "name": "Fruity Video Player",
+      "file": "generator-fruity-video-player.zip",
+      "size": 1493538,
+      "unpacked": 4327955,
+      "files": 2,
+      "sha256": "9a71b321381d62aabc599d9e70f69dd7b5d38cd1ae8ff61185bd0b25ecee4def"
+    },
+    {
+      "id": "generator-fruity-voltage-controller",
+      "kind": "generator",
+      "name": "Fruity Voltage Controller",
+      "file": "generator-fruity-voltage-controller.zip",
+      "size": 1427873,
+      "unpacked": 4135216,
+      "files": 1,
+      "sha256": "0d5de61136afbb3e8de0f60117f487f7f649af92ce0d209f00dc53f6a11cce33"
+    },
+    {
+      "id": "generator-fruity-wrapper",
+      "kind": "generator",
+      "name": "Fruity Wrapper",
+      "file": "generator-fruity-wrapper.zip",
+      "size": 2012925,
+      "unpacked": 5999092,
+      "files": 2,
+      "sha256": "358fa41540b02c20c890333fe8594e7aa47f2572509690aba06e178e9790d0a1"
+    },
+    {
+      "id": "generator-gms",
+      "kind": "generator",
+      "name": "GMS",
+      "file": "generator-gms.zip",
+      "size": 1342460,
+      "unpacked": 5659683,
+      "files": 60,
+      "sha256": "589a88e27644c05ecae8bfe0588107bd401003bbf478fa9c75602cf1cc5af9be"
+    },
+    {
+      "id": "generator-harmless",
+      "kind": "generator",
+      "name": "Harmless",
+      "file": "generator-harmless.zip",
+      "size": 1798837,
+      "unpacked": 4920573,
+      "files": 7,
+      "sha256": "04345de2162d1856d1fa4958cfde364f98c13cb81d4e4a1611a3a9bfc47b4073"
+    },
+    {
+      "id": "generator-harmor",
+      "kind": "generator",
+      "name": "Harmor",
+      "file": "generator-harmor.zip",
+      "size": 6705591,
+      "unpacked": 14887249,
+      "files": 200,
+      "sha256": "a456814111f4e2662fec28d2576acdabfe6b42b937b592bc9992bf96306f8ada"
+    },
+    {
+      "id": "generator-kepler",
+      "kind": "generator",
+      "name": "Kepler",
+      "file": "generator-kepler.zip",
+      "size": 3297289,
+      "unpacked": 6636128,
+      "files": 2,
+      "sha256": "66b2e80566875a76247ccedf55882ee22df533e15937357a9a5e4d85fc89bea1"
+    },
+    {
+      "id": "generator-kepler-exo",
+      "kind": "generator",
+      "name": "Kepler Exo",
+      "file": "generator-kepler-exo.zip",
+      "size": 3473568,
+      "unpacked": 7191648,
+      "files": 2,
+      "sha256": "c94b86d31d60dc815016e85adec4c5d0a64b5be799e6fad8bb9de9903d1258f2"
+    },
+    {
+      "id": "generator-midi-out",
+      "kind": "generator",
+      "name": "MIDI Out",
+      "file": "generator-midi-out.zip",
+      "size": 1412463,
+      "unpacked": 4099510,
+      "files": 5,
+      "sha256": "b97330873590a9db2b9946e5d133445f8703ab93ebb202009e1d138cba8be54b"
+    },
+    {
+      "id": "generator-minisynth",
+      "kind": "generator",
+      "name": "Minisynth",
+      "file": "generator-minisynth.zip",
+      "size": 4626678,
+      "unpacked": 14215117,
+      "files": 23,
+      "sha256": "b76f0869ca7a2e6b6716676a73334ba68e213bf3248dc698f1d3d3430b8025af"
+    },
+    {
+      "id": "generator-morphine",
+      "kind": "generator",
+      "name": "Morphine",
+      "file": "generator-morphine.zip",
+      "size": 26789736,
+      "unpacked": 41060303,
+      "files": 203,
+      "sha256": "3f438e6ed29882747aaca13bab2a85c9c9306d3345fc4e2175b12ce9802dd0c0"
+    },
+    {
+      "id": "generator-ogun",
+      "kind": "generator",
+      "name": "Ogun",
+      "file": "generator-ogun.zip",
+      "size": 2391913,
+      "unpacked": 6442178,
+      "files": 46,
+      "sha256": "819b89dd3c01358a1e687b41eea3ae5b056ed3c22a11b105258e81389c5e4960"
+    },
+    {
+      "id": "generator-patcher",
+      "kind": "generator",
+      "name": "Patcher",
+      "file": "generator-patcher.zip",
+      "size": 2392520,
+      "unpacked": 7023641,
+      "files": 2,
+      "sha256": "cddb864cf0a3b5ee1e834585f0a5d266bb1f74136290c2d5810e24d17c3dc298"
+    },
+    {
+      "id": "generator-plucked",
+      "kind": "generator",
+      "name": "Plucked!",
+      "file": "generator-plucked.zip",
+      "size": 1278949,
+      "unpacked": 3746805,
+      "files": 2,
+      "sha256": "3c080745270bbc8290e4199da8e20fbc79f4eb5f47eb24b0fb946aa384211d8d"
+    },
+    {
+      "id": "generator-poizone",
+      "kind": "generator",
+      "name": "PoiZone",
+      "file": "generator-poizone.zip",
+      "size": 1650449,
+      "unpacked": 4650592,
+      "files": 2,
+      "sha256": "52dc3cf908154df8a9c15944cc5d6315895dfe28f4a7f8c0060513e0d67c5521"
+    },
+    {
+      "id": "generator-rewired",
+      "kind": "generator",
+      "name": "ReWired",
+      "file": "generator-rewired.zip",
+      "size": 1401778,
+      "unpacked": 4040724,
+      "files": 2,
+      "sha256": "b6fe25f73383dd2901313ef7106c327ca6ce32bfaef166615528a9c692a788f0"
+    },
+    {
+      "id": "generator-sakura",
+      "kind": "generator",
+      "name": "Sakura",
+      "file": "generator-sakura.zip",
+      "size": 1884468,
+      "unpacked": 5101917,
+      "files": 3,
+      "sha256": "a9b18d32ba84f38fb75f84de76023a79c78d1030b5e6b0800db7c369359f1ddc"
+    },
+    {
+      "id": "generator-sawer",
+      "kind": "generator",
+      "name": "Sawer",
+      "file": "generator-sawer.zip",
+      "size": 1803092,
+      "unpacked": 5052512,
+      "files": 3,
+      "sha256": "94f2f26b9e4ad17fc39e1700473428731243d2fa9af46e99ec9f3b92d708babb"
+    },
+    {
+      "id": "generator-simsynth",
+      "kind": "generator",
+      "name": "SimSynth",
+      "file": "generator-simsynth.zip",
+      "size": 1565246,
+      "unpacked": 4471079,
+      "files": 3,
+      "sha256": "10544777e7f8cf3c09eaefba8682316f6ea25498aebdf9350d921ef0fd92c5a1"
+    },
+    {
+      "id": "generator-slicex",
+      "kind": "generator",
+      "name": "Slicex",
+      "file": "generator-slicex.zip",
+      "size": 2249505,
+      "unpacked": 6361966,
+      "files": 41,
+      "sha256": "4d9a7ae73d8f94e56ff35d83e3a6ca528f352581fd3fac9169830a05c1f53e88"
+    },
+    {
+      "id": "generator-soundfont-player",
+      "kind": "generator",
+      "name": "Soundfont Player",
+      "file": "generator-soundfont-player.zip",
+      "size": 1661434,
+      "unpacked": 4638155,
+      "files": 3,
+      "sha256": "f7d3addad92555ae79179649b147c2ee64de6b2117d13945b75f49bf4455b2ef"
+    },
+    {
+      "id": "generator-sytrus",
+      "kind": "generator",
+      "name": "Sytrus",
+      "file": "generator-sytrus.zip",
+      "size": 2208765,
+      "unpacked": 7496375,
+      "files": 111,
+      "sha256": "8c42c7af826248d80049902865a9e31fdb2057eab167555e2a79e62e18450aca"
+    },
+    {
+      "id": "generator-toxic-biohazard",
+      "kind": "generator",
+      "name": "Toxic Biohazard",
+      "file": "generator-toxic-biohazard.zip",
+      "size": 2426959,
+      "unpacked": 5738013,
+      "files": 81,
+      "sha256": "94f2ffde3a93962ba80d01462b075f9879278e20bda4564d8b55cb8eaeee9894"
+    },
+    {
+      "id": "generator-transistor-bass",
+      "kind": "generator",
+      "name": "Transistor Bass",
+      "file": "generator-transistor-bass.zip",
+      "size": 2302468,
+      "unpacked": 5860989,
+      "files": 3,
+      "sha256": "0192c5b59fa35305966e0a7190a56f656d93ed5a5951bf2cb7afb97c994c5b30"
+    },
+    {
+      "id": "generator-wasp",
+      "kind": "generator",
+      "name": "Wasp",
+      "file": "generator-wasp.zip",
+      "size": 1308152,
+      "unpacked": 4057906,
+      "files": 7,
+      "sha256": "9b6576aa11c36ef3d03113c7045db289693026d8624f5e66672d54088eca78f2"
+    },
+    {
+      "id": "generator-wasp-xt",
+      "kind": "generator",
+      "name": "Wasp XT",
+      "file": "generator-wasp-xt.zip",
+      "size": 1349328,
+      "unpacked": 3867230,
+      "files": 8,
+      "sha256": "866a2701575d050d5df5fa92708ae01d93fcc1e540e7d87da66a7b3fd3da71c0"
+    },
+    {
+      "id": "generator-wave-traveller",
+      "kind": "generator",
+      "name": "Wave Traveller",
+      "file": "generator-wave-traveller.zip",
+      "size": 1496120,
+      "unpacked": 4493859,
+      "files": 25,
+      "sha256": "9673cfc82c7f3e64630818e0a8f2beee4b2d4e871385d3153653f5625382abec"
+    }
+  ]
+}
