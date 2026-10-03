@@ -81,10 +81,10 @@ them.
 
 ## License
 
-**The modules are Image-Line's files**, not ours. They are published here with Image-Line's
-permission so that FL Bridge can deliver them to a machine without FL Studio. No license is granted
-or checked: the rights stay with Image-Line, and the modules run under your FL Studio license — or
-in demo mode without one, exactly as they would in an unregistered FL Studio.
+**The modules are Image-Line's files**, not ours. They are here so that FL Bridge can deliver them
+to a machine without FL Studio. No license is granted or checked: the rights stay with Image-Line,
+and the modules run under your FL Studio license — or in demo mode without one, exactly as they
+would in an unregistered FL Studio.
 
 FL Bridge is an independent product and is not affiliated with Image-Line. Should Image-Line ask for
 the distribution to be taken down, it will be.
@@ -175,8 +175,8 @@ FL Bridge. Он сверит sha256 и положит модули туда, г�
 
 ## Лицензия
 
-**Модули — файлы Image-Line**, а не наши. Они опубликованы здесь с разрешения Image-Line, чтобы
-FL Bridge мог доставить их на машину без FL Studio. Лицензия на них не выдаётся и не проверяется:
+**Модули — файлы Image-Line**, а не наши. Они здесь для того, чтобы FL Bridge мог доставить их на
+машину без FL Studio. Лицензия на них не выдаётся и не проверяется:
 права остаются у Image-Line, модули работают по лицензии вашей FL Studio, а без неё — в демо-режиме,
 так же, как в незарегистрированной FL Studio.
 
